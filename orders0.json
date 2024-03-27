@@ -1,0 +1,102 @@
+[
+    {
+        "id": 7647,
+        "article": "Orange",
+        "quantity": 11,
+        "price": 1.99,
+        "date": "04/01/2024",
+        "client_id": 9450,
+        "client_age": 49,
+        "blood_group": "A"
+    },
+    {
+        "id": 5314,
+        "article": "Past\u00e8que",
+        "quantity": 16,
+        "price": 2.99,
+        "date": "04/01/2024",
+        "client_id": 1488,
+        "client_age": 59,
+        "blood_group": "A"
+    },
+    {
+        "id": 3752,
+        "article": "Orange",
+        "quantity": 10,
+        "price": 1.99,
+        "date": "05/01/2024",
+        "client_id": 7327,
+        "client_age": 36,
+        "blood_group": "AB"
+    },
+    {
+        "id": 1834,
+        "article": "Past\u00e8que",
+        "quantity": 19,
+        "price": 2.99,
+        "date": "05/01/2024",
+        "client_id": 8405,
+        "client_age": 32,
+        "blood_group": "A"
+    },
+    {
+        "id": 5178,
+        "article": "Fraise",
+        "quantity": 2,
+        "price": 2.49,
+        "date": "06/01/2024",
+        "client_id": 1482,
+        "client_age": 58,
+        "blood_group": "A"
+    },
+    {
+        "id": 6030,
+        "article": "Pomme",
+        "quantity": 1,
+        "price": 0.99,
+        "date": "06/01/2024",
+        "client_id": 6171,
+        "client_age": 33,
+        "blood_group": "B"
+    },
+    {
+        "id": 4987,
+        "article": "Orange",
+        "quantity": 6,
+        "price": 1.99,
+        "date": "06/01/2024",
+        "client_id": 1580,
+        "client_age": 68,
+        "blood_group": "AB"
+    },
+    {
+        "id": 7560,
+        "article": "Pomme",
+        "quantity": 10,
+        "price": 0.99,
+        "date": "06/01/2024",
+        "client_id": 8655,
+        "client_age": 29,
+        "blood_group": "A"
+    },
+    {
+        "id": 3117,
+        "article": "Orange",
+        "quantity": 15,
+        "price": 1.99,
+        "date": "07/01/2024",
+        "client_id": 8068,
+        "client_age": 29,
+        "blood_group": "B"
+    },
+    {
+        "id": 9324,
+        "article": "Past\u00e8que",
+        "quantity": 1,
+        "price": 2.99,
+        "date": "08/01/2024",
+        "client_id": 3720,
+        "client_age": 67,
+        "blood_group": "B"
+    }
+]
